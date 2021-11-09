@@ -1,0 +1,5 @@
+com\demoproject\onetomany\repository\MarkRepository.class
+com\demoproject\onetomany\repository\StudentRepository.class
+com\demoproject\onetomany\model\Student.class
+com\demoproject\onetomany\model\Mark.class
+com\demoproject\onetomany\OneToManyApplication.class
